@@ -1,0 +1,1 @@
+global using Lab5.Presentation.Console.Extensions;
